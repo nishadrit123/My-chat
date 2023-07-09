@@ -1,6 +1,9 @@
-# flash_chat
+# Flash_Chat
 
-A new Flutter project.
+A real time chatting app built using Flutter. The app uses firebase database. Firebase core, Firebase Auth and cloud packages have been
+used to maintain the record of messages. Theses messages are displayed using Flutter's ListView widget and in form of Snapshot (Data
+Stream) The user has to register to the app before using it. The animation effects are made using hero animation along with few custom
+animations.
 
 ## Getting Started
 
